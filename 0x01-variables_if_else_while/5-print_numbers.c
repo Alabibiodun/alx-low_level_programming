@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
  * main - main block 
- * Return 0
+ * Return: 0
  */
 int main(void)
 {
@@ -10,9 +12,9 @@ int main(void)
 	while (c <= '9')
 	{
 		putchar(c);
-		c++
+		c++;
 	}
 
-	putchar('\n')
+	putchar('\n');
 	Return (0);
 }

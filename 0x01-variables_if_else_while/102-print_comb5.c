@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - main point 
+ * main - main point
  *
  * Return: always 0
  */

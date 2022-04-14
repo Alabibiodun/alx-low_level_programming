@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: one 
+ * Description: one
  * Return: 0
  */
 int main(void)

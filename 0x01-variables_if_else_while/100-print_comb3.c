@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - main block 
+ * main - main block
  * The two digits must be different
  * Return: 0
  */
@@ -10,7 +10,7 @@ int main(void)
 {
 
 	int c;
-	int d = 0; 
+	int d = 0;
 
 	while (d < 10)
 	{

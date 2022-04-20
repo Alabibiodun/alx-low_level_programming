@@ -1,17 +1,20 @@
 #include "main.h"
 
 /**
- * print_numbers - prints the numbers, from 0 to 9
+ * print_numbers - prints the numbers
+ * Return: 0
  */
 
 void print_numbers(void)
 {
-	int x;
+	char n = 0;
 
-	for (x = 48; x < 58; x++)
+	while (n <= 9)
 	{
-		_putchar(x);
-	}
-	_putchar(10);
-}
+		_putchar('0' + n);
+		n++
 
+	}
+	_putchar('\n');
+
+}
